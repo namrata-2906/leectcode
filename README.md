@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/namrata-2906/leectcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/namrata-2906/leectcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/namrata-2906/leectcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/namrata-2906/leectcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/namrata-2906/leectcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/namrata-2906/leectcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/namrata-2906/leectcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/namrata-2906/leectcode/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/namrata-2906/leectcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
