@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/namrata-2906/leectcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/namrata-2906/leectcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/namrata-2906/leectcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/namrata-2906/leectcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/namrata-2906/leectcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/namrata-2906/leectcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/namrata-2906/leectcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/namrata-2906/leectcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/namrata-2906/leectcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/namrata-2906/leectcode/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/namrata-2906/leectcode/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -45,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/namrata-2906/leectcode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/namrata-2906/leectcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/namrata-2906/leectcode/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/namrata-2906/leectcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/namrata-2906/leectcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/namrata-2906/leectcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/namrata-2906/leectcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/namrata-2906/leectcode/tree/master/0371-sum-of-two-integers) |
 ## Divide and Conquer
