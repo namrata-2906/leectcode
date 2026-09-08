@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/namrata-2906/leectcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/namrata-2906/leectcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/namrata-2906/leectcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/namrata-2906/leectcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/namrata-2906/leectcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/namrata-2906/leectcode/tree/master/0152-maximum-product-subarray) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/namrata-2906/leectcode/tree/master/0014-longest-common-prefix) |
 | [0917-reverse-only-letters](https://github.com/namrata-2906/leectcode/tree/master/0917-reverse-only-letters) |
 ## Breadth-First Search
 |  |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/namrata-2906/leectcode/tree/master/0322-coin-change) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/namrata-2906/leectcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
