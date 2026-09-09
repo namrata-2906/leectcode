@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/namrata-2906/leectcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/namrata-2906/leectcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/namrata-2906/leectcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/namrata-2906/leectcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/namrata-2906/leectcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/namrata-2906/leectcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/namrata-2906/leectcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/namrata-2906/leectcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/namrata-2906/leectcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/namrata-2906/leectcode/tree/master/0027-remove-element) |
 | [0917-reverse-only-letters](https://github.com/namrata-2906/leectcode/tree/master/0917-reverse-only-letters) |
 ## Sorting
 |  |
